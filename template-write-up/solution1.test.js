@@ -1,4 +1,5 @@
 'use strict';
+
 import { sum } from './solution1.js';
 
 describe('Basic Tests', () => {

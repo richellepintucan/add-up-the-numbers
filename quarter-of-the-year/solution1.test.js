@@ -1,4 +1,5 @@
 'use strict';
+
 import { quarterOfTheYear } from './solution1.js';
 
 describe('Basic Tests', () => {
