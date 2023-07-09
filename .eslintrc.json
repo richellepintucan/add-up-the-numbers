@@ -3,7 +3,11 @@
   "indent": ["error", 4],
   "parser": "@babel/eslint-parser",
   "parserOptions": {
-    "sourceType": "script"
+    "sourceType": "module",
+    "requireConfigFile": false,
+    "babelOptions": {
+      "presets": ["@babel/preset-env"]
+    }
   },
   "env": {
     "browser": false
