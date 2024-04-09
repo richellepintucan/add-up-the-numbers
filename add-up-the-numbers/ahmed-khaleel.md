@@ -1,4 +1,4 @@
-# [Ahmed Khaleel](https://www.linkedin.com/pulse/add-up-numbers-from-single-number-ahmed-khaleel)
+# [Ahmed Khaleel in LinkedIn](https://www.linkedin.com/pulse/add-up-numbers-from-single-number-ahmed-khaleel)
 
 ```js
 function addUp(num) {
